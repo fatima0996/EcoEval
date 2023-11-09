@@ -1,5 +1,5 @@
 # EcoEval 🍃♻️🏞️💚🌱 by Fatima Masood, Jahanvi Mathukia, Tharshigan Vithiyananthan and Sana Medhi
-The EcoEval Chrome Extension is designed to help online shopping users make more environmentally conscious purchasing decisions. It utilizes ChatGPT’s API to analyze the product descriptions on e-commerce platforms and provide a general sustainability rating for each product. This Chrome extension was designed with HTML, CSS, and JavaScript. 
+This project was produced for NewHacks 2023 by IEEE University of Toronto Student Branch. The EcoEval Chrome Extension is designed to help online shopping users make more environmentally conscious purchasing decisions. It utilizes ChatGPT’s API to analyze the product descriptions on e-commerce platforms and provide a general sustainability rating for each product. This Chrome extension was designed with HTML, CSS, and JavaScript. 
 
 ## Features ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 * Sustainability Rating: Provides a sustainability rating (in percent out of 100) for products based on their descriptions along with a short reasoning for this value
